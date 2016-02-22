@@ -40,3 +40,30 @@ input{
 	text-align: center;
 
 }
+
+/*Shopping List*/
+.shopping-list{
+	text-align: center;
+	
+}
+
+.shopping-list li{
+	list-style-type: none;
+	font-family: 'Comfortaa', cursive;
+	font-size: 20px;
+
+}
+
+.fa-minus{
+	margin-right: .5em;
+	margin-top: .2em;
+
+}
+
+.fa-check{
+	margin-left: .5em;
+}
+
+
+
+
