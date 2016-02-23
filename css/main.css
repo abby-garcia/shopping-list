@@ -66,5 +66,23 @@ input{
 }
 
 
+/*Toggle Class Css*/
+
+.underline{
+	text-decoration: line-through;
+}
+
+
+/*Reset Button*/
+
+#clear-button{
+	margin-top: 2%;
+	position: relative;
+	left: 43%;
+	background-color: papayawhip;
+	font-family: 'Comfortaa', cursive;
+
+
+}
 
 
