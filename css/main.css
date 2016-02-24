@@ -1,4 +1,7 @@
 /* Shopping List Title */
+section{
+	text-align: center;
+}
 
 .intro{
 	text-align: center;
@@ -77,8 +80,6 @@ input{
 
 #clear-button{
 	margin-top: 2%;
-	position: relative;
-	left: 43%;
 	background-color: papayawhip;
 	font-family: 'Comfortaa', cursive;
 
