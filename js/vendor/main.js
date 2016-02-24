@@ -33,7 +33,7 @@ $( document ).ready(function() {
 // Reset Button
 
 	$('#clear-button').on("click",function (){
-		$('li').remove('underline');
+		$('.underline').remove();
 
 		//this needs to remove words with 
 		//lines thru them
